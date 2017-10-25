@@ -1,6 +1,6 @@
 <?php
 
-namespace Patel\Timezones;
+namespace Patel\Rtimezones;
 
 use Illuminate\Support\ServiceProvider;
 
