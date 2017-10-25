@@ -28,6 +28,6 @@ class TimezonesServiceProvider extends ServiceProvider
     public function register()
     {
         include __DIR__.'/routes.php';
-        $this->app->make('Patel\Timezones\TimezonesController');
+        $this->app->make('Patel\Rtimezones\TimezonesController');
     }
 }

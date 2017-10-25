@@ -23,7 +23,7 @@
         ],
         "psr-4": {
             "App\\": "app/",
-			"Patel\\Timezones\\": "packages/patel/timezones/src"
+			"Patel\\Rtimezones\\": "packages/patel/rtimezones/src"
         }
     },
     "autoload-dev": {
