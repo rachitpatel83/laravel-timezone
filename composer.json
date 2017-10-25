@@ -1,5 +1,5 @@
 {
-    "name": "laravel/timezones",
+    "name": "patel/rtimezones",
     "description": "The Laravel Framework for timezones.",
     "keywords": ["framework", "laravel", "timezones"],
     "license": "MIT",
