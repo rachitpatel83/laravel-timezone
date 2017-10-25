@@ -1,0 +1,17 @@
+{
+    "name": "patel/timezones",
+    "description": "First Package",
+    "require": {
+        
+    },
+    "require-dev": {
+        
+    },
+    "authors": [
+        {
+            "name": "Rachit Patel",
+            "email": "rachit.patel@viitorcloud.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
